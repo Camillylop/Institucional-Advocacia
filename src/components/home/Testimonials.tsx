@@ -26,7 +26,7 @@ const testimonials = [
 
 export function Testimonials() {
   return (
-    <section className="section-padding bg-primary text-primary-foreground">
+    <section className="py-24 bg-primary text-primary-foreground">
       <div className="container-custom">
         {/* Header */}
         <div className="text-center max-w-2xl mx-auto mb-12">
@@ -37,7 +37,7 @@ export function Testimonials() {
             O Que Nossos Clientes Dizem
           </h2>
           <p className="opacity-90">
-            A satisfação dos nossos clientes é nossa maior conquista. Confira alguns 
+            A satisfação dos nossos clientes é nossa maior conquista. Confira alguns
             depoimentos de quem confiou em nosso trabalho.
           </p>
         </div>

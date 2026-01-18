@@ -13,7 +13,7 @@ const highlights = [
 
 export function About() {
   return (
-    <section className="section-padding bg-background">
+    <section className="py-24 bg-background">
       <div className="container-custom">
         <div className="grid lg:grid-cols-2 gap-12 items-center">
           {/* Image */}
@@ -42,16 +42,16 @@ export function About() {
                 Tradição e Excelência em Advocacia
               </h2>
               <p className="text-muted-foreground leading-relaxed">
-                O escritório Almeida & Torres Advocacia nasceu da união de profissionais 
-                apaixonados pelo Direito e comprometidos com a justiça. Há mais de 15 anos, 
-                oferecemos assessoria jurídica de qualidade para pessoas físicas e pequenos 
+                O escritório Almeida & Torres Advocacia nasceu da união de profissionais
+                apaixonados pelo Direito e comprometidos com a justiça. Há mais de 15 anos,
+                oferecemos assessoria jurídica de qualidade para pessoas físicas e pequenos
                 empresários.
               </p>
             </div>
 
             <p className="text-muted-foreground leading-relaxed">
-              Nossa missão é democratizar o acesso à justiça, oferecendo atendimento 
-              humanizado e soluções jurídicas eficientes. Acreditamos que cada cliente 
+              Nossa missão é democratizar o acesso à justiça, oferecendo atendimento
+              humanizado e soluções jurídicas eficientes. Acreditamos que cada cliente
               merece ser ouvido e ter seus direitos defendidos com dedicação.
             </p>
 

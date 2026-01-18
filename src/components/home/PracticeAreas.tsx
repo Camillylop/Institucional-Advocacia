@@ -35,7 +35,7 @@ const areas = [
 
 export function PracticeAreas() {
   return (
-    <section className="section-padding bg-secondary">
+    <section className="py-24 bg-muted/50 border-t border-border/50">
       <div className="container-custom">
         {/* Header */}
         <div className="text-center max-w-2xl mx-auto mb-12">

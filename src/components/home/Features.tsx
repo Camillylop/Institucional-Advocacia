@@ -2,7 +2,7 @@ import { Shield, Users, Award } from "lucide-react";
 
 export function Features() {
     return (
-        <section className="py-12 bg-background relative z-10 -mt-8">
+        <section className="py-24 bg-background relative z-10 -mt-8 pb-32">
             <div className="container-custom">
                 <div className="grid md:grid-cols-3 gap-8">
                     <div className="bg-card shadow-lg rounded-xl p-8 border border-border hover:border-gold/50 transition-all duration-300 text-center group">
